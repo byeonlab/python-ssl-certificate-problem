@@ -1,4 +1,4 @@
-def _get_httpd_context_factory():
+def _get_https_context_factory():
     if not sys.flags.ignore_environment:
         config_setting = os.environ.get(_https_verify_envvar)
         if config_setting == '0':
