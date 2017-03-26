@@ -1,6 +1,6 @@
 # python-ssl-certificate-problem
 
-Simple trick to bypass SSLv3 and SSLv2 certification problem (Python >= 2.7.9)
+Simple trick to bypass SSLv3 and SSLv2 certification error (Python >= 2.7.9)
 
 Modify two lines in ssl.py
 
