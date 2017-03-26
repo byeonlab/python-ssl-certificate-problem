@@ -9,7 +9,7 @@ Location of ssl.py :
 Windows -> Python27\Lib\
 Linux -> /usr/lib/Python27/
 
-Recommaned for local, closed, or fully trusted network connection.
+Recommended for local, closed, or fully trusted network connections.
 
 In other cases, please use this carefully.
 
